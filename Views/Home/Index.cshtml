@@ -3,6 +3,24 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Bienvenido a la Veterinaria <b>"Patitas"</b></h1>
+</div>
+
+<div class="cards">
+    <div class="cards__container">
+        <img src="~/images/mascotas.png" alt="Foto de mascotas" class="cards__img">
+        <h1>Registro para mascotas</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda impedit, rerum quidem, non ea aliquid doloribus hic ad recusandae quaerat sequi magnam eligendi maxime, accusantium reiciendis optio magni cupiditate quas.</p>
+        <div class="cards__link">
+            <a asp-action="RegistroMascota" asp-controller="Home" >Registrar Mascota</a>
+        </div>
+    </div>
+    <div class="cards__container">
+        <img src="~/images/productos.png" alt="Productos para mascotas" class="cards__img">
+        <h1>Productos</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque sequi vitae ipsam ea ratione magni, cum, dolorem ut alias assumenda, minima deleniti quae. Temporibus atque, eos id recusandae accusantium rem.</p>
+        <div class="cards__link">
+            <a asp-action="VerProductos" asp-controller="Home" >Ver Productos</a>
+        </div>
+    </div>
 </div>
