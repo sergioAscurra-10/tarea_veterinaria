@@ -28,6 +28,12 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult AgregarCarrito()
+    {
+        TempData["mensaje2"] = "Felicidades tu producto se ha agregado correctamente";
+        return RedirectToAction("index");
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
