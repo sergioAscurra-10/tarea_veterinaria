@@ -23,6 +23,17 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult VerProductos()
+    {
+        return View();
+    }
+
+    public IActionResult AgregarCarrito()
+    {
+        TempData["mensaje2"] = "Felicidades tu producto se ha agregado correctamente";
+        return RedirectToAction("index");
+    }
+
     [HttpGet]
     public IActionResult RegistroMascota()
     {
