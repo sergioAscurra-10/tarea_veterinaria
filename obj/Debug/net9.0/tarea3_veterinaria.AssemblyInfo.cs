@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarea3_veterinaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1611bcd33303f8686354461c2a7ac21861313d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+982b25a6a27e2e124b2e05ab267ea462739742e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarea3_veterinaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarea3_veterinaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
