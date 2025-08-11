@@ -22,7 +22,6 @@ C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\rjsmcshtml.d
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\scopedcss\bundle\tarea3_veterinaria.styles.css
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\scopedcss\projectbundle\tarea3_veterinaria.bundle.scp.css
-C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\scgkwa1qoj-b9sayid5wm.gz
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\u5z2ln6jqz-61n19gt1b8.gz
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\29kp3u2gib-xtxxf3hu2r.gz
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\aq1f9srsiq-bqjiyaj88i.gz
@@ -84,8 +83,6 @@ C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\q
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\gb9p1jt7de-muycvpuwrr.gz
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\6j0o3mpztu-87fc7y1x7t.gz
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\pc26ucxclc-mlv21k5csn.gz
-C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\j0i9cxj4fb-hjviywrl8k.gz
-C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\e2jvmrvwy6-hjviywrl8k.gz
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\staticwebassets.development.json
@@ -95,3 +92,6 @@ C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\refint\tarea
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\tarea3_veterinaria.pdb
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\tarea3_veterinaria.genruntimeconfig.cache
 C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\ref\tarea3_veterinaria.dll
+C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\scgkwa1qoj-enbrpy49je.gz
+C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\j0i9cxj4fb-7srycfm9r6.gz
+C:\Users\sergi\OneDrive\Desktop\tarea3_veterinaria\obj\Debug\net9.0\compressed\e2jvmrvwy6-7srycfm9r6.gz
