@@ -34,6 +34,25 @@ public class HomeController : Controller
         return RedirectToAction("index");
     }
 
+    [HttpGet]
+    public IActionResult RegistroMascota()
+    {
+        return View(new Mascota());
+    }
+
+    [HttpPost]
+    public IActionResult RegistroMascota(Mascota mascota)
+    {
+        if (ModelState.IsValid)
+        {
+            TempData["Mensaje"] = "La mascota '"+ mascota.nombre + "' ha sido registrada con exito!!";
+
+            return RedirectToAction("Index"); ;
+        }
+
+        return View(mascota);
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

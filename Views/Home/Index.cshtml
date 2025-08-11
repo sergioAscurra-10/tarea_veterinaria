@@ -9,6 +9,12 @@
 <div class="alert alert-info" role="alert">
         @TempData["Mensaje2"]
 </div>
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Mensaje"]
+    </div>
+}
 
 <div class="cards">
     <div class="cards__container">
@@ -28,3 +34,4 @@
         </div>
     </div>
 </div>
+

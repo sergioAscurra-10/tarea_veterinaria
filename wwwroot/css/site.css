@@ -67,3 +67,45 @@ body {
   border-radius: 8px;
 }
 
+.registro {
+  width: 850px;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  text-align: center;
+  padding: 20px;
+}
+
+
+.registro__img > img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 40%;
+}
+
+.formulario {
+  height: 100%;
+  padding: 20px;
+}
+
+.formulario__datos {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 5px;
+}
+
+.formulario__datos > input {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.formulario__boton {
+  margin-top: 8px;  
+}
+
