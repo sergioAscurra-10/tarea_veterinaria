@@ -2,19 +2,19 @@
 
 <div class="registro">
     <div class="formulario">
-        <form>
+        <form asp-action="RegistroMascota" asp-controller="Home" method="post">
             <h1>Registra tu Mascota</h1>
             <div class="formulario__datos">
                 <label for="nombreMascota">Nombre:</label> 
-                <input type="text" id="nombreMascota">
+                <input type="text" id="nombreMascota" name="nombre">
             </div>
             <div class="formulario__datos">
                 <label for="edadMascota">Edad:</label>
-                <input type="number" id="edadMascota">
+                <input type="number" id="edadMascota" name="edad">
             </div>
             <div class="formulario__datos">
                 <label for="especieMascota">Especie:</label>
-                <input type="text" id="especieMascota">
+                <input type="text" id="especieMascota" name="especie">
             </div>
             <div class="formulario__boton">
                 <button type="submit">ENVIAR</button>
